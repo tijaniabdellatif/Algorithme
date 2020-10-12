@@ -18,8 +18,11 @@
 
 ## Outils
 
-*Miro*: [User Stories and mind Mapping](https://miro.com/) 
-*Discord* : [Discord](https://discord.com/)
+* *Miro*: [User Stories and mind Mapping](https://miro.com/) 
+* *Discord* : [Discord](https://discord.com/)
+* *KANBAN* : [User Stories](https://github.com/tijaniabdellatif/Algorithme/projects/1)
+
+
 
 
 
